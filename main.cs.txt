@@ -1,1 +1,4 @@
-Console.WriteLine("Hola Mundo"
+Console.WriteLine("Hola Mundo")
+-2 cebollas
+-1 kilo de carne
+-2 kilos de arroz
